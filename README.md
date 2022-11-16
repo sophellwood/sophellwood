@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning all about AWS and neural networks
+- 💬 Ask me about any of my projects or ultimate frisbee!
+- 🔭 Checkout this 2D Unity platformer made for a game design course https://creative.caslab.queensu.ca/~GDP4/
+- 📫 Connect on linkedin: https://www.linkedin.com/in/sophie-ellwood 
 
 
 <!--
