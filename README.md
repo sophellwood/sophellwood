@@ -2,7 +2,7 @@
 
 - 🌱 I’m a fourth year computer science student who loves coding
 - 💬 Ask me about any of my projects or ultimate frisbee!
-- 🔭 Checkout this 2D Unity platformer made for a game design course https://creative.caslab.queensu.ca/~GDP4/
+- 🔭 Checkout this 2D Unity platformer made for a game design course [https://creative.caslab.queensu.ca/~GDP4/](https://courses.caslab.queensu.ca/blog/2022/04/12/creative-computing-2022/#the-legend-of-splitman)
 - 📫 Connect on linkedin: https://www.linkedin.com/in/sophie-ellwood
 - ⚡ Email - 19se@queensu.ca
 
