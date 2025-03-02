@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m a first year MSc. student at McGill university who loves coding!
+- 🌱 I’m a first year MSc. student at McGill University who loves computer science!
 - 📫 Connect on linkedin: https://www.linkedin.com/in/sophie-ellwood
 - ⚡ Email - sophie.ellwood@mail.mcgill.ca
 
